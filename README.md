@@ -11,10 +11,10 @@ This is an interactive map that allow you click over any point. Then the map wil
 
 ## Installation:
 Just clone the repository. Then use the index.html on any browser.
-Also, follow MapBox legal service use: https://www.mapbox.com/legal/tos
+
 
 ## Usage:
-Free to use
+Free to use. Also, follow MapBox Terms of service for use: https://www.mapbox.com/legal/tos
 
 ## Support:
 Jose Figueroa 
